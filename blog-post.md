@@ -174,4 +174,4 @@ Full source code: [github.com/geekfardeen03](https://github.com/geekfardeen03)
 
 ---
 
-*Fardeen NS Khan is a third-year B.Tech CSE student at SVNIT Surat who builds things, breaks things, figures out why they broke, and occasionally writes about it.*
+*Fardeen , someone who builds things, breaks things, figures out why they broke, and occasionally writes about it.*
