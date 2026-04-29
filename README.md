@@ -136,7 +136,7 @@ The video tutorial is approximately 10 minutes long and covers:
 - The two bugs I hit and how I debugged them
 - Quick walkthrough of the screen sharing and chat examples
 
-YouTube link: [link]
+Google Drive: [link]
 
 ---
 
@@ -152,15 +152,14 @@ In a production app the token would be generated server-side using the API key a
 
 ---
 
-## Why I want this role
+## That said 
 
-I am a third year CSE student who genuinely enjoys making technical things understandable. Not dumbing them down — actually explaining them in a way that respects the reader's intelligence while removing unnecessary confusion.
 
 Developer advocacy is exactly that job. You understand the SDK deeply enough to know what's hard about it, and you explain it clearly enough that other developers don't hit the same walls you did.
 
 I built this entire submission in a few days, hit real bugs, debugged them properly, and wrote about them honestly. That is what I would do in this role every day.
 
-I am available immediately. Looking forward to the conversation.
+
 
 ---
 
