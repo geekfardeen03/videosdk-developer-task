@@ -152,13 +152,6 @@ In a production app the token would be generated server-side using the API key a
 
 ---
 
-## That said 
-
-
-Developer advocacy is exactly that job. You understand the SDK deeply enough to know what's hard about it, and you explain it clearly enough that other developers don't hit the same walls you did.
-
-I built this entire submission in a few days, hit real bugs, debugged them properly, and wrote about them honestly. That is what I would do in this role every day.
-
 
 
 ---
