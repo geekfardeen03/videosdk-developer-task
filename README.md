@@ -136,7 +136,7 @@ The video tutorial is approximately 10 minutes long and covers:
 - The two bugs I hit and how I debugged them
 - Quick walkthrough of the screen sharing and chat examples
 
-Google Drive: [link]
+Google Drive: [https://drive.google.com/file/d/1T5YD2Y-6_ZFdIkeKrybDh0YZzA_6im01/view?usp=drive_link]
 
 ---
 
