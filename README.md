@@ -1,8 +1,8 @@
 # VideoSDK 
 
-<p align="center">
+<a href="https://https://hashnode.com/@ferror-101">
   <img src="./blog-cover.png" width="100%" />
-</p>
+</a>
 
 
 **Submitted by:** Fardeen NS Khan
