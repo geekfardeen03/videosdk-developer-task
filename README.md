@@ -1,7 +1,7 @@
 # VideoSDK 
 
 <p align="center">
-  <img src="./assets/blog-cover.png" width="100%" />
+  <img src="./blog-cover.png" width="100%" />
 </p>
 
 
