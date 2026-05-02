@@ -1,5 +1,10 @@
 # VideoSDK 
 
+<p align="center">
+  <img src="./assets/blog-cover.png" width="100%" />
+</p>
+
+
 **Submitted by:** Fardeen NS Khan
 **College:** B.Tech CSE, SVNIT Surat
 **GitHub:** github.com/geekfardeen03
